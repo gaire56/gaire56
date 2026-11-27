@@ -1,4 +1,4 @@
-![Hi, I’m Ananta Gaire. Machine Learning Developer and Assistant Professor at KCGI.](./assets/profile-hero.svg)
+![Hi, I’m Ananta Gaire. Machine Learning Developer ](./assets/profile-hero.svg)
 
 I’m an Assistant Professor at The Kyoto College of Graduate Studies for Informatics (KCGI) in Kyoto, Japan. I work on explainable AI for cybersecurity and build software for teaching and applied machine learning.
 
